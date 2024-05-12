@@ -1,0 +1,46 @@
+* HOME
+home__social
+https://www.linkedin.com/in/paardha-tejaswi-saladi-3921aa227/
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+
+home__description
+Aspiring intern and a blooming flower at domain of web development and cybersecurity enthusiast.
+
+
+* ABOUT
+about__description
+Web developer, with a beginner knowledge and years of experience, working in web technologies and web design, delivering quality work.
+
+about__info-name
+Years <br> experience
+Internships <br> Companies
+Certifications <br> earned
+
+
+* SERVICES
+services__modal-service
+I develop the user interface.
+Web page development.
+I create front end pages and develop necessary coding part.
+I position your company brand.
+
+
+* PORTFOLIO
+portfolio__description
+Website adaptable to all devices.
+
+
+* PROJECT
+project__description
+Contact me now and get to know more about me.
+
+
+* TESTIMONIAL
+testimonial__description
+I get a good impression, I carry out my project with all the possible quality and attention and support 24 hours a day.
+
+
+* FOOTER
+footer__social
+https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
+https://www.linkedin.com/in/paardha-tejaswi-saladi
